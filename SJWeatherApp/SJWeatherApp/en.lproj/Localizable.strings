@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  SJWeatherApp
+
+  Created by Sagar Jadhav on 29/08/23.
+  
+*/
+
+"home_navigation_title" = "Weather Report";
+"home_alert_title" = "Sorry";
+"home_alert_description" = "Something went wrong. Please try again.";
+"home_loader_title" = "Loading...";
+"home_search_title" = "Search";
+"home_search_placeholder" = "Enter City";
+"home_default_cityname" = "City Name";
+"home_default_condition" = "Weather Condition";
+
+"home_wind_title" = "wind";
+"home_humidity_title" = "humidity";
+"home_sunrise_title" = "sunrise";
+"home_sunset_title" = "sunset";
+"home_eye_title" = "eye";
+"home_visibility_title" = "Visibility";
