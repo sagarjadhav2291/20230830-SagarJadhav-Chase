@@ -57,7 +57,7 @@ class SJHomeViewModel: ObservableObject {
                 DispatchQueue.main.async {
                     self.showAlert = true
                     self.dataReceived = false
-                    self.isLoading
+                    self.isLoading = false
                 }
                 break
             }
